@@ -1,0 +1,5 @@
+001;paneton gloria;10;25.0
+002;azucar;50;4.0
+003;arroz;4;4.5
+004;aceite primor;10;9.5
+006;gelatina fresa;40;3.5
